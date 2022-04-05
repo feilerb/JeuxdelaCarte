@@ -1,0 +1,387 @@
+[{
+    "Code_commune_INSEE": 75101,
+    "Nom_commune": "PARIS 01",
+    "Code_postal": 75001,
+    "Libelle_acheminement": "PARIS",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.862834158, 2.33616696102"
+  },
+  {
+    "Code_commune_INSEE": 13202,
+    "Nom_commune": "MARSEILLE 02",
+    "Code_postal": 13002,
+    "Libelle_acheminement": "MARSEILLE",
+    "Ligne_5": "",
+    "coordonnees_gps": "43.3127325556, 5.36355601234"
+  },
+  {
+      
+    "Code_commune_INSEE": 69389,
+    "Nom_commune": "LYON 09",
+    "Code_postal": 69009,
+    "Libelle_acheminement": "LYON",
+    "Ligne_5": "",
+    "coordonnees_gps": "45.7824566011, 4.80893117264"
+  },
+  {
+    "Code_commune_INSEE": 31555,
+    "Nom_commune": "TOULOUSE",
+    "Code_postal": 31300,
+    "Libelle_acheminement": "TOULOUSE",
+    "Ligne_5": "",
+    "coordonnees_gps": "43.5959709582, 1.43229378001"
+  },
+  {
+    "Code_commune_INSEE": 6088,
+    "Nom_commune": "NICE",
+    "Code_postal": 6200,
+    "Libelle_acheminement": "NICE",
+    "Ligne_5": "ST ROMAN DE BELLET",
+    "coordonnees_gps": "43.7122279855, 7.23752896461"
+  }, {
+    "Code_commune_INSEE": 57463,
+    "Nom_commune": "METZ",
+    "Code_postal": 57050,
+    "Libelle_acheminement": "METZ",
+    "Ligne_5": "",
+    "coordonnees_gps": "49.1138494739, 6.17894504375"
+  },
+   {
+    "Code_commune_INSEE": 6088,
+    "Nom_commune": "NICE",
+    "Code_postal": 6100,
+    "Libelle_acheminement": "NICE",
+    "Ligne_5": "",
+    "coordonnees_gps": "43.7122279855, 7.23752896461"
+  },
+  {
+    "Code_commune_INSEE": 44109,
+    "Nom_commune": "NANTES",
+    "Code_postal": 44000,
+    "Libelle_acheminement": "NANTES",
+    "Ligne_5": "",
+    "coordonnees_gps": "47.2321830557, -1.54780684906"
+  },
+  {
+    "Code_commune_INSEE": 33063,
+    "Nom_commune": "BORDEAUX",
+    "Code_postal": 33300,
+    "Libelle_acheminement": "BORDEAUX",
+    "Ligne_5": "",
+    "coordonnees_gps": "44.8579384389, -0.573595011059"
+  },
+  {
+    "Code_commune_INSEE": 59350,
+    "Nom_commune": "LILLE",
+    "Code_postal": 59000,
+    "Libelle_acheminement": "LILLE",
+    "Ligne_5": "",
+    "coordonnees_gps": "50.6319195692, 3.04708687186"
+  },
+  {
+    "Code_commune_INSEE": 67482,
+    "Nom_commune": "STRASBOURG",
+    "Code_postal": 67100,
+    "Libelle_acheminement": "STRASBOURG",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.5716222333, 7.76768232804"
+  }, {
+    "Code_commune_INSEE": 35238,
+    "Nom_commune": "RENNES",
+    "Code_postal": 35700,
+    "Libelle_acheminement": "RENNES",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.1116364246, -1.6816378334"
+  },
+  {
+    "Code_commune_INSEE": 34172,
+    "Nom_commune": "MONTPELLIER",
+    "Code_postal": 34070,
+    "Libelle_acheminement": "MONTPELLIER",
+    "Ligne_5": "",
+    "coordonnees_gps": "43.613085594, 3.86919806969"
+  }, {
+    "Code_commune_INSEE": 30189,
+    "Nom_commune": "NIMES",
+    "Code_postal": 30000,
+    "Libelle_acheminement": "NIMES",
+    "Ligne_5": "",
+    "coordonnees_gps": "43.8446783278, 4.34763990758"
+  },
+  {
+    "Code_commune_INSEE": 83137,
+    "Nom_commune": "TOULON",
+    "Code_postal": 83000,
+    "Libelle_acheminement": "TOULON",
+    "Ligne_5": "",
+    "coordonnees_gps": "43.1364016655, 5.93275623187"
+  },  {
+    "Code_commune_INSEE": 76351,
+    "Nom_commune": "LE HAVRE",
+    "Code_postal": 76610,
+    "Libelle_acheminement": "LE HAVRE",
+    "Ligne_5": "ROUELLES",
+    "coordonnees_gps": "49.4965610328, 0.1402707121"
+  },
+  {
+    "Code_commune_INSEE": 42218,
+    "Nom_commune": "ST ETIENNE",
+    "Code_postal": 42000,
+    "Libelle_acheminement": "ST ETIENNE",
+    "Ligne_5": "",
+    "coordonnees_gps": "45.4301225907, 4.37830062526"
+  },
+  {
+    "Code_commune_INSEE": 51454,
+    "Nom_commune": "REIMS",
+    "Code_postal": 51100,
+    "Libelle_acheminement": "REIMS",
+    "Ligne_5": "LA NEUVILLETTE",
+    "coordonnees_gps": "49.2518578026, 4.03958522088"
+  },
+  {
+    "Code_commune_INSEE": 49007,
+    "Nom_commune": "ANGERS",
+    "Code_postal": 49000,
+    "Libelle_acheminement": "ANGERS",
+    "Ligne_5": "",
+    "coordonnees_gps": "47.4914905977, -0.545029996891"
+  },
+  {
+    "Code_commune_INSEE": 21231,
+    "Nom_commune": "DIJON",
+    "Code_postal": 21000,
+    "Libelle_acheminement": "DIJON",
+    "Ligne_5": "",
+    "coordonnees_gps": "47.3229417955, 5.03751223305"
+  },{
+    "Code_commune_INSEE": 38185,
+    "Nom_commune": "GRENOBLE",
+    "Code_postal": 38100,
+    "Libelle_acheminement": "GRENOBLE",
+    "Ligne_5": "",
+    "coordonnees_gps": "45.182155682, 5.72079920349"
+  },
+  {
+    "Code_commune_INSEE": 13001,
+    "Nom_commune": "AIX EN PROVENCE",
+    "Code_postal": 13540,
+    "Libelle_acheminement": "AIX EN PROVENCE",
+    "Ligne_5": "PUYRICARD",
+    "coordonnees_gps": "43.5360221556, 5.3983786513"
+  },
+  {
+    "Code_commune_INSEE": 14118,
+    "Nom_commune": "CAEN",
+    "Code_postal": 14000,
+    "Libelle_acheminement": "CAEN",
+    "Ligne_5": "",
+    "coordonnees_gps": "49.1850251668, -0.370004009634"
+  },  {
+    "Code_commune_INSEE": 54395,
+    "Nom_commune": "NANCY",
+    "Code_postal": 54000,
+    "Libelle_acheminement": "NANCY",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.6902043213, 6.1760319489"
+  },
+  
+  {
+    "Code_commune_INSEE": 72181,
+    "Nom_commune": "LE MANS",
+    "Code_postal": 72000,
+    "Libelle_acheminement": "LE MANS",
+    "Ligne_5": "",
+    "coordonnees_gps": "47.9887754636, 0.199888551607"
+  },
+  {
+    "Code_commune_INSEE": 68224,
+    "Nom_commune": "MULHOUSE",
+    "Code_postal": 68200,
+    "Libelle_acheminement": "MULHOUSE",
+    "Ligne_5": "BOURTZWILLER",
+    "coordonnees_gps": "47.7494423807, 7.32540160105"
+  },
+  {
+    "Code_commune_INSEE": 29019,
+    "Nom_commune": "BREST",
+    "Code_postal": 29200,
+    "Libelle_acheminement": "BREST",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.3998970513, -4.5026725313"
+  },
+
+{
+    "Code_commune_INSEE": 93048,
+    "Nom_commune": "MONTREUIL",
+    "Code_postal": 93100,
+    "Libelle_acheminement": "MONTREUIL",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.8631150275, 2.44833244212"
+  },
+  {
+    "Code_commune_INSEE": 63113,
+    "Nom_commune": "CLERMONT FERRAND",
+    "Code_postal": 63000,
+    "Libelle_acheminement": "CLERMONT FERRAND",
+    "Ligne_5": "",
+    "coordonnees_gps": "45.7859081171, 3.1155334528"
+  },
+  {
+    "Code_commune_INSEE": 25056,
+    "Nom_commune": "BESANCON",
+    "Code_postal": 25000,
+    "Libelle_acheminement": "BESANCON",
+    "Ligne_5": "",
+    "coordonnees_gps": "47.2552328934, 6.01938051129"
+  },
+  {
+    "Code_commune_INSEE": 87085,
+    "Nom_commune": "LIMOGES",
+    "Code_postal": 87100,
+    "Libelle_acheminement": "LIMOGES",
+    "Ligne_5": "LANDOUGE",
+    "coordonnees_gps": "45.8544056025, 1.24905166141"
+  }, {
+    "Code_commune_INSEE": 66136,
+    "Nom_commune": "PERPIGNAN",
+    "Code_postal": 66000,
+    "Libelle_acheminement": "PERPIGNAN",
+    "Ligne_5": "",
+    "coordonnees_gps": "42.6965780787, 2.8990363094"
+  },{
+    "Code_commune_INSEE": 97411,
+    "Nom_commune": "ST DENIS",
+    "Code_postal": 97400,
+    "Libelle_acheminement": "ST DENIS",
+    "Ligne_5": "ST DENIS TADAR",
+    "coordonnees_gps": "-20.9331449895, 55.4471125463"
+  }, {
+    "Code_commune_INSEE": 45234,
+    "Nom_commune": "ORLEANS",
+    "Code_postal": 45100,
+    "Libelle_acheminement": "ORLEANS",
+    "Ligne_5": "LA SOURCE",
+    "coordonnees_gps": "47.8826248233, 1.91635582903"
+  },{
+    "Code_commune_INSEE": 95018,
+    "Nom_commune": "ARGENTEUIL",
+    "Code_postal": 95100,
+    "Libelle_acheminement": "ARGENTEUIL",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.95173377, 2.24070535988"
+  },{
+    "Code_commune_INSEE": 84007,
+    "Nom_commune": "AVIGNON",
+    "Code_postal": 84000,
+    "Libelle_acheminement": "AVIGNON",
+    "Ligne_5": "",
+    "coordonnees_gps": "43.9352589636, 4.84116595474"
+  },   {
+    "Code_commune_INSEE": 94081,
+    "Nom_commune": "VITRY SUR SEINE",
+    "Code_postal": 94400,
+    "Libelle_acheminement": "VITRY SUR SEINE",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.7885568869, 2.39425728394"
+  }, {
+    "Code_commune_INSEE": 94028,
+    "Nom_commune": "CRETEIL",
+    "Code_postal": 94000,
+    "Libelle_acheminement": "CRETEIL",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.7836775841, 2.45497922897"
+  },{
+    "Code_commune_INSEE": 59512,
+    "Nom_commune": "ROUBAIX",
+    "Code_postal": 59100,
+    "Libelle_acheminement": "ROUBAIX",
+    "Ligne_5": "",
+    "coordonnees_gps": "50.6882121889, 3.18169732773"
+  },{
+    "Code_commune_INSEE": 59599,
+    "Nom_commune": "TOURCOING",
+    "Code_postal": 59200,
+    "Libelle_acheminement": "TOURCOING",
+    "Ligne_5": "",
+    "coordonnees_gps": "50.7261026624, 3.15984468995"
+  },{
+    "Code_commune_INSEE": 92050,
+    "Nom_commune": "NANTERRE",
+    "Code_postal": 92000,
+    "Libelle_acheminement": "NANTERRE",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.8962161446, 2.2068493546"
+  },{
+    "Code_commune_INSEE": 69266,
+    "Nom_commune": "VILLEURBANNE",
+    "Code_postal": 69100,
+    "Libelle_acheminement": "VILLEURBANNE",
+    "Ligne_5": "",
+    "coordonnees_gps": "45.7708577093, 4.88913450646"
+  },{
+    "Code_commune_INSEE": 92004,
+    "Nom_commune": "ASNIERES SUR SEINE",
+    "Code_postal": 92600,
+    "Libelle_acheminement": "ASNIERES SUR SEINE",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.915464529, 2.28801082145"
+  },{
+    "Code_commune_INSEE": 93001,
+    "Nom_commune": "AUBERVILLIERS",
+    "Code_postal": 93300,
+    "Libelle_acheminement": "AUBERVILLIERS",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.9126312095, 2.38445065454"
+  }, {
+    "Code_commune_INSEE": 76540,
+    "Nom_commune": "ROUEN",
+    "Code_postal": 76100,
+    "Libelle_acheminement": "ROUEN",
+    "Ligne_5": "",
+    "coordonnees_gps": "49.4414760352, 1.09318612833"
+  },{
+    "Code_commune_INSEE": 59183,
+    "Nom_commune": "DUNKERQUE",
+    "Code_postal": 59279,
+    "Libelle_acheminement": "DUNKERQUE",
+    "Ligne_5": "MARDYCK",
+    "coordonnees_gps": "51.0134149737, 2.28028859027"
+  }, {
+    "Code_commune_INSEE": 86194,
+    "Nom_commune": "POITIERS",
+    "Code_postal": 86000,
+    "Libelle_acheminement": "POITIERS",
+    "Ligne_5": "",
+    "coordonnees_gps": "46.5833929687, 0.359226445482"
+  },{
+    "Code_commune_INSEE": 80021,
+    "Nom_commune": "AMIENS",
+    "Code_postal": 80080,
+    "Libelle_acheminement": "AMIENS",
+    "Ligne_5": "",
+    "coordonnees_gps": "49.9004650343, 2.29084588963"
+  }, {
+    "Code_commune_INSEE": 17300,
+    "Nom_commune": "LA ROCHELLE",
+    "Code_postal": 17000,
+    "Libelle_acheminement": "LA ROCHELLE",
+    "Ligne_5": "",
+    "coordonnees_gps": "46.1620724166, -1.17485679534"
+  },
+  {
+    "Code_commune_INSEE": 64445,
+    "Nom_commune": "PAU",
+    "Code_postal": 64000,
+    "Libelle_acheminement": "PAU",
+    "Ligne_5": "",
+    "coordonnees_gps": "43.3202428022, -0.349730360793"
+  },  {
+    "Code_commune_INSEE": 92025,
+    "Nom_commune": "COLOMBES",
+    "Code_postal": 92700,
+    "Libelle_acheminement": "COLOMBES",
+    "Ligne_5": "",
+    "coordonnees_gps": "48.9228285289, 2.24714560937"
+  }
+]
